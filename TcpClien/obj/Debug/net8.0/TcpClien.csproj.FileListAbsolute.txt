@@ -1,0 +1,15 @@
+C:\Users\offic\RiderProjects\Home_42\TcpClien\bin\Debug\net8.0\TcpClien.exe
+C:\Users\offic\RiderProjects\Home_42\TcpClien\bin\Debug\net8.0\TcpClien.deps.json
+C:\Users\offic\RiderProjects\Home_42\TcpClien\bin\Debug\net8.0\TcpClien.runtimeconfig.json
+C:\Users\offic\RiderProjects\Home_42\TcpClien\bin\Debug\net8.0\TcpClien.dll
+C:\Users\offic\RiderProjects\Home_42\TcpClien\bin\Debug\net8.0\TcpClien.pdb
+C:\Users\offic\RiderProjects\Home_42\TcpClien\obj\Debug\net8.0\TcpClien.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\offic\RiderProjects\Home_42\TcpClien\obj\Debug\net8.0\TcpClien.AssemblyInfoInputs.cache
+C:\Users\offic\RiderProjects\Home_42\TcpClien\obj\Debug\net8.0\TcpClien.AssemblyInfo.cs
+C:\Users\offic\RiderProjects\Home_42\TcpClien\obj\Debug\net8.0\TcpClien.csproj.CoreCompileInputs.cache
+C:\Users\offic\RiderProjects\Home_42\TcpClien\obj\Debug\net8.0\TcpClien.sourcelink.json
+C:\Users\offic\RiderProjects\Home_42\TcpClien\obj\Debug\net8.0\TcpClien.dll
+C:\Users\offic\RiderProjects\Home_42\TcpClien\obj\Debug\net8.0\refint\TcpClien.dll
+C:\Users\offic\RiderProjects\Home_42\TcpClien\obj\Debug\net8.0\TcpClien.pdb
+C:\Users\offic\RiderProjects\Home_42\TcpClien\obj\Debug\net8.0\TcpClien.genruntimeconfig.cache
+C:\Users\offic\RiderProjects\Home_42\TcpClien\obj\Debug\net8.0\ref\TcpClien.dll
