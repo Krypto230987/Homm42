@@ -14,7 +14,11 @@ bool ClientWorker()
            Console.WriteLine($"Client connected to {sender.RemoteEndPoint}");
            Console.WriteLine("Enter message:");
            string? message = Console.ReadLine();
-           byte[] byteMessage = Encoding.UTF8.GetBytes(message);
+            if (message != null)
+           {
+               byte[] byteMessage = Encoding.UTF8.GetBytes(message);
+               sender.Send(byteMessage);
+           }
            sender.Send(byteMessage);
            byte[] getMessage = new byte[1024];
            int bytesReceived = sender.Receive(getMessage);
